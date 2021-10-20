@@ -1,0 +1,14 @@
+.character {
+  margin: 1rem;
+  background-color: white;
+  border: .01rem solid black;
+  border-radius: .2rem;
+}
+
+.character:hover {
+  opacity: .7;
+}
+
+.selected {
+  display: none;
+}
